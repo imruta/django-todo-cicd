@@ -1,5 +1,5 @@
 # django-todo
-Simple todo app built with django app...
+Ssimple todo app built with django app...
 
 ![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
 ### Setup
